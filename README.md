@@ -4,3 +4,4 @@ According to the survey,80% of the world’s data is unstructured. The data need
 
 Sentiment Analysis is required as it stores data in an efficient, cost-friendly.
 Sentiment analysis solves real-time issues and can help you solve all the real-time scenarios.
+
