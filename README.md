@@ -1,4 +1,4 @@
-# Sentimental-Anaysis
+# Sentimental-Analysis
 
 
 
